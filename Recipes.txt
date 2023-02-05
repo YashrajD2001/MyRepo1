@@ -4,6 +4,8 @@ coffee
 tea
 noddles
 frech fries
+samosa 
+pizza
 
 
 ||  Thank you ||
