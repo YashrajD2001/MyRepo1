@@ -1,5 +1,1 @@
-Reccipe from YD
-
-1. Go to dominos.com
-2. Select pizza
-3. Order
+This is first repository This is first commit.
