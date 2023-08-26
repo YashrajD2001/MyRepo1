@@ -1,4 +1,4 @@
 # MyRepo1
 This is my first repository
 <br>
-Auther - YD
+Auther - YD(Yash Dhande)
